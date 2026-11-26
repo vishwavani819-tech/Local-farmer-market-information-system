@@ -1,0 +1,28 @@
+# Portable toolchain downloaded for this machine (JDK, Maven, MySQL)
+.tools/
+downloads/
+
+# Java / Maven
+backend/target/
+*.class
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Runtime uploads (seeded photos live in frontend/public/img)
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local overrides
+backend/src/main/resources/application-local.properties
+.env
+.env.local

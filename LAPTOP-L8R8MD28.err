@@ -1,0 +1,64 @@
+2026-11-17T16:25:47.979031Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 10876
+2026-11-17T16:25:48.109144Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-17T16:25:48.842173Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-17T16:25:49.032779Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-17T16:25:49.040660Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-17T16:25:49.167801Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-17T16:25:49.168418Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-17T16:25:49.225788Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-17T16:34:36.436752Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 228
+2026-11-17T16:34:36.449783Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-17T16:34:37.019375Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-17T16:34:37.262579Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-17T16:34:37.270655Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-17T16:34:37.339279Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-17T16:34:37.339944Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-17T16:34:37.410327Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-18T07:56:31.276693Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 22564
+2026-11-18T07:56:31.417808Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-18T07:56:32.270157Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-18T07:56:32.486703Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-18T07:56:32.495974Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-18T07:56:32.629130Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-18T07:56:32.629884Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-18T07:56:32.861752Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-18T08:27:06.246026Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 26880
+2026-11-18T08:27:06.305106Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-18T08:27:06.771205Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-18T08:27:06.915409Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-18T08:27:06.918750Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-18T08:27:06.948662Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-18T08:27:06.948938Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-18T08:27:07.052430Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-22T12:31:02.970242Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 22988
+2026-11-22T12:31:03.136577Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-22T12:31:03.744171Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-22T12:31:04.038568Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-22T12:31:04.045183Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-22T12:31:04.104567Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-22T12:31:04.105414Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-22T12:31:04.327599Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-22T13:58:07.533008Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 9148
+2026-11-22T13:58:07.686546Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-22T13:58:08.494587Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-22T13:58:08.844262Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-22T13:58:08.852174Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-22T13:58:08.914656Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-22T13:58:08.915386Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-22T13:58:09.021345Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-24T08:11:20.767024Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 24976
+2026-11-24T08:11:20.896512Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-24T08:11:21.860361Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-24T08:11:22.158924Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-24T08:11:22.168563Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-24T08:11:22.293070Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-24T08:11:22.294108Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-24T08:11:22.800853Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2026-11-24T13:53:08.754088Z 0 [System] [MY-010116] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe (mysqld 8.0.40) starting as process 18552
+2026-11-24T13:53:08.905158Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-11-24T13:53:09.625811Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-11-24T13:53:09.870111Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2026-11-24T13:53:09.876282Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2026-11-24T13:53:09.986358Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-11-24T13:53:09.987160Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-11-24T13:53:10.427749Z 0 [System] [MY-010931] [Server] D:\local Farmer\.tools\mysql-8.0.40-winx64\bin\mysqld.exe: ready for connections. Version: '8.0.40'  socket: ''  port: 3307  MySQL Community Server - GPL.
